@@ -1,4 +1,4 @@
 # discordlonger
 ```diff
-$$ make longer messages on discord $$
+@@ make longer messages on discord @@
 ```
